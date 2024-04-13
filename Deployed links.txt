@@ -1,7 +1,7 @@
-ATS=> https://huggingface.co/spaces/pratham2002/ATS
+ATS=> https://finalyearats.streamlit.app/
 
-Invoice=> https://huggingface.co/spaces/pratham2002/Invoice
+Invoice=> https://finalyearinvoice.streamlit.app/
 
-Chatbot=> https://huggingface.co/spaces/pratham2002/QA 
+Chatbot=> https://finalyearchat.streamlit.app/
 
 Github Link=> https://github.com/PrathamKaushik/LLM-DUO.git
