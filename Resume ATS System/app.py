@@ -35,8 +35,10 @@ the missing keywords with high accuracy
 resume:{text}
 description:{jd}
 
-I want the response in a multiline string having the structure
-{{ "JD Match":"%", "MissingKeywords:[]", "Profile Summary":"" }}
+I want the response in three bullet points having the structure
+=> JD Match - "%"
+=> Missing Keywords:[]
+=> Profile Summary:"" 
 """
 
 ## streamlit app
